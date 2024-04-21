@@ -40,6 +40,12 @@ GitHub NOTE
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
 
+GitHub NOTE new line
+
+> [!NOTE]
+> 
+> Highlights information that users should take into account, even when skimming.
+
 GitHub TIP
 
 > [!TIP]
