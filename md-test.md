@@ -30,6 +30,7 @@
 
 正文段落：庆历四年春，滕子京谪守巴陵郡。越明年，政通人和，百废俱兴，乃重修岳阳楼。  
 字数统计这是一十个字字数统计这是二十个字字数统计这是三十个字字数统计这是四十个字字数统计这是五十个字字数统计这是六十个字字数统计这是七十个字字数统计这是八十个字字数统计这是九十个字
+aabbcc0010aabbcc0020aabbcc0030aabbcc0040aabbcc0050aabbcc0060aabbcc0070aabbcc0080aabbcc0090aabbcc0100aabbcc0110aabbcc0120aabbcc0130aabbcc0140aabbcc0150aabbcc0160
 
 普通引用
 
